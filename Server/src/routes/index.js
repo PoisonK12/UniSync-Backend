@@ -1,6 +1,6 @@
 const { Router } = require('express')
 
-const localLoginRouter = require('./login/localLoginRouter')
+const localLoginRouter = require('./loginRoutes/localLoginRouter')
 
 const router = Router()
 
